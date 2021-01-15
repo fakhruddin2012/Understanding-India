@@ -18,5 +18,5 @@ As I am someone who is proud of being an Indian. I feel it is important to know 
 
 ## Indian Politics:
 Politics in India is really a big thing.Every year there are elections taking place in some parts of India.Hence its good to analyze about these things. To know about which state have how much Vidhan Sabha or Lok Sabha seats act as a general knowledge.
-
+At first I analyzed the Vidhan Sabha Seats of each state.Below is the bar chart which shows the top ten states having highest number of Vidhan Sabha seats.
 
