@@ -20,3 +20,6 @@ As I am someone who is proud of being an Indian. I feel it is important to know 
 Politics in India is really a big thing.Every year there are elections taking place in some parts of India.Hence its good to analyze about these things. To know about which state have how much Vidhan Sabha or Lok Sabha seats act as a general knowledge.
 At first I analyzed the Vidhan Sabha Seats of each state.Below is the bar chart which shows the top ten states having highest number of Vidhan Sabha seats.
 
+![newplot (27)](https://user-images.githubusercontent.com/55452866/104762456-6534e200-578a-11eb-85a5-76cd1ad9f6fc.png)
+
+
