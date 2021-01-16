@@ -24,5 +24,6 @@ At first I analyzed the Vidhan Sabha Seats of each state.Below is the bar chart 
 ![newplot (27)](https://user-images.githubusercontent.com/55452866/104762456-6534e200-578a-11eb-85a5-76cd1ad9f6fc.png)
 
 ### Analysis of Lok Sabha Seats of States:
+ Perhaps the most important elections in the country is the Lok Sabha elections,commonly known as General election which is held after every five years.Below is the graph which shows the Lok sabha seats each state have(Top 10 States).
 
 
