@@ -3,7 +3,8 @@ A project in which I explore different aspects in India and analyze them.
 
 * [Motivation For the Project](#Motivation-For-the-Project)
 * [Indian Politics](#Indian-Politics)
-  * [Analysis of Number of Vidhan Seats of States](#Analysis-of-Number-of-Vidhan-Seats-of-States)
+  * [Analysis of Vidhan Sabha Seats of States](#Analysis-of-Vidhan-Sabha-Seats-of-States)
+  * [Analysis of Lok Sabha Seats of States](#Analysis-of-Lok-Sabha-Seats-of-States)
 
 
 
@@ -21,5 +22,7 @@ Politics in India is really a big thing.Every year there are elections taking pl
 At first I analyzed the Vidhan Sabha Seats of each state.Below is the bar chart which shows the top ten states having highest number of Vidhan Sabha seats.
 
 ![newplot (27)](https://user-images.githubusercontent.com/55452866/104762456-6534e200-578a-11eb-85a5-76cd1ad9f6fc.png)
+
+### Analysis of Lok Sabha Seats of States:
 
 
